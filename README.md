@@ -36,7 +36,7 @@ Ensure you have ChromeDriver installed and properly set in your system PATH.
 
 Run Browser_manage.java using TestNG.
 
-📸 Preview
+##📸 Preview
 - Example actions performed in the test:
 
 - Navigate to Google → Facebook → YouTube
@@ -45,8 +45,8 @@ Run Browser_manage.java using TestNG.
 
 - Switch between multiple open windows and tabs
 
-🔗 Related Projects
+##🔗 Related Projects
 - Facebook UI Checks with Selenium
 
-👨‍💻 Author
-MD. Abdul Alim
+##👨‍💻 Author
+- MD. Abdul Alim
