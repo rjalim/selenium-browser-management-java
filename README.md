@@ -45,8 +45,8 @@ Run Browser_manage.java using TestNG.
 
 - Switch between multiple open windows and tabs
 
-##🔗 Related Projects
+🔗 Related Projects
 - Facebook UI Checks with Selenium
 
-##👨‍💻 Author
+👨‍💻 Author
 - MD. Abdul Alim
